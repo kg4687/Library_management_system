@@ -1,4 +1,4 @@
-# -CLA-T4 
+
 LIBRARY MANAGEMENT SYSTEM using c language
 
 This project is a console based library management system application that can be used to manage a library digitally. It is programmed using the C language. It has all basic functions such as to 
