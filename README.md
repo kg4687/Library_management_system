@@ -7,4 +7,5 @@ This project is a console based library management system application that can b
 ● Search book by Author name 
 ● Print list of all books in library 
 ● Print no. of books in library 
-Main advantage of this project is that it makes it way easy to manage a library. Keeping track of the data is easy this way. It significantly helps in reducing the use of paper in library management. The Program uses structure to store books records.
+Main advantage of this project is that it makes it way easy to manage a library. Keeping track of the data is easy this way. It significantly helps in reducing the use of paper in library management. The Program uses structure to store books records. 
+ty
